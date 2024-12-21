@@ -9,10 +9,10 @@ Whether you work in development or are simply looking for new, useful everyday t
 <li><a href="#g-helper">G-Helper</a></li>
 </ul>
 
-# 🌐 Best websites a programmer should visit
+# 🌐 [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 A repository that is constantly updated, containing handy links related to lots of topics for programmers. Worth a visit whether you're a newbie or a seasoned veteran.
 
-# 💡 G-Helper
+# 💡 [G-Helper](https://github.com/seerge/g-helper)
 Lightweight Armoury Crate alternative for Asus laptops, containing almost the same functionality while using much less performance than Armoury Crate.
 Works with all popular models, such as ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, Flow Z13, DUO, TUF Series, Strix or Scar Series, ProArt, Vivobook, Zenbook, ROG Ally or Ally X and many more.
 
