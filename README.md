@@ -1,4 +1,4 @@
-# Essentials-4-Everyone
+# Essentials for everyone
 A repository that I will constantly be updating, containing essential tools with simple guides for installation/usage, even a layman could follow them!
 
 Whether you work in development or are simply looking for new, useful everyday tools, here is a list of some you should consider.
