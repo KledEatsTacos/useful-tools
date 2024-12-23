@@ -8,6 +8,7 @@ Whether you want to be productive or are just simply looking for useful everyday
 <li><a href="#best-websites-a-programmer-should-visit">Best websites a programmer should visit</a></li>
 <li><a href="#g-helper">G-Helper</a></li>
 <li><a href="#microsoft-activation-scripts">Microsoft Activation Scripts</li>
+<li><a href="#superf4">SuperF4</a></li>
 </ul>
 
 # [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
@@ -15,9 +16,9 @@ A repository that is constantly updated, containing handy links related to lots 
 
 # [G-Helper](https://github.com/seerge/g-helper)
 Lightweight Armoury Crate alternative for Asus laptops, containing almost the same functionality while using much less performance than Armoury Crate.
-Works with all popular models, such as ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, Flow Z13, DUO, TUF Series, Strix or Scar Series, ProArt, Vivobook, Zenbook, ROG Ally or Ally X and many more.
+It works with all popular models, such as ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, Flow Z13, DUO, TUF Series, Strix or Scar Series, ProArt, Vivobook, Zenbook, ROG Ally or Ally X and many more.
 
-![G-Helper example](docs/ghelperPic1.png)
+![image](https://github.com/user-attachments/assets/ed72c6b3-bd9f-4553-8e2d-caef9be6a788)
 
 ## Installation
 Download the latest version [here](https://github.com/seerge/g-helper/releases/latest/download/GHelper.zip) and unzip the folder. Then you can run GHelper.exe.
@@ -63,6 +64,29 @@ or
 3.   In the extracted folder, find the folder named `All-In-One-Version`
 4.   Run the file named `MAS_AIO.cmd`
 5.   You will see the activation options, follow the on-screen instructions.
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+# [SuperF4](https://stefansundin.github.io/superf4/)
+SuperF4 kills the foreground program when you press Ctrl+Alt+F4. This is different from when you press Alt+F4. When you press Alt+F4, the program can refuse to quit. Windows only asks the program to quit, and lets it decide for itself what to do.
+
+You can also kill a program by pressing Win+F4 and then clicking the window with your mouse cursor. You can press escape or the right mouse button to exit this mode without killing a program.
+
+## Installation
+
+Download the installer [here](https://github.com/stefansundin/superf4/releases/download/v1.4/SuperF4-1.4.exe)
+
+While installing, you will come across this
+
+![image](https://github.com/user-attachments/assets/8cabc930-2280-4116-880b-f346139a1e8a)
+
+I highly recommend enabling registry tweak to prevent any funny stuff from happening to SuperF4
+
+Once the program is installed, right-click on its icon, I recommend turning on the autostart and elevate options, as they will let the program start on bootup and give the program higher privileges, as it may not be able to close certain programs without them.
+
+![image](https://github.com/user-attachments/assets/ccd4a109-9e97-408f-8bf5-3a57c2434e9b)
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
