@@ -7,8 +7,8 @@ Whether you want to be productive or are just simply looking for useful everyday
 <ul>
   <li><a href="#best-websites-a-programmer-should-visit">Best websites a programmer should visit</a> - Handy links for programmers covering various topics </li>
   <li><a href="#g-helper">G-Helper</a> - Lightweight Armoury Crate alternative for Asus laptops </li>
-  <li><a href="#microsoft-activation-scripts">Microsoft Activation Scripts</a> - Scripts to activate Windows and Office </li>
-  <li><a href="#superf4">SuperF4</a> - Tool to forcefully kill foreground programs </li>
+  <li><a href="#microsoft-activation-scripts">Microsoft Activation Scripts</a> - An easy way that lets you activate windows and office programs </li>
+  <li><a href="#superf4">SuperF4</a> - Tool to forcefully kill programs </li>
 </ul>
 
 # 🌐[Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
