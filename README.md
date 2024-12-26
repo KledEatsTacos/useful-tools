@@ -9,6 +9,7 @@ Whether you want to be productive or are just simply looking for useful everyday
   <li><a href="#g-helper">G-Helper</a> - Lightweight Armoury Crate alternative for Asus laptops </li>
   <li><a href="#microsoft-activation-scripts">Microsoft Activation Scripts</a> - An easy way that lets you activate windows and office programs </li>
   <li><a href="#superf4">SuperF4</a> - Tool to forcefully kill programs </li>
+  <li><a href="#return-youtube-dislike>">Return Youtube Dislike</a> - Extension that lets you see dislikes on YouTube videos </li>
 </ul>
 
 # 🌐[Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
