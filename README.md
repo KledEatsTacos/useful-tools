@@ -94,3 +94,19 @@ Once the program is installed, right-click on its icon. I recommend turning on t
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
+
+# 👍👎[Return YouTube Dislike](https://returnyoutubedislike.com/)
+A browser extension that restores the dislike count on YouTube videos.
+
+## Installation ⚙️
+1. Visit their [install page](https://returnyoutubedislike.com/install) on their website.
+2. Choose your preferred browser and install the extension. (NOTE: if your browser is not supported you will have to use Tampermonkey, will add steps later)
+
+After that, you'll be able to see dislikes on YouTube videos!
+
+![image](https://github.com/user-attachments/assets/e5ac4682-d83f-4934-9a43-a8e79e3b1a1f)
+
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
