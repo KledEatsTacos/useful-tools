@@ -10,6 +10,8 @@ Whether you want to be productive or are just simply looking for useful everyday
   <li><a href="#microsoft-activation-scripts">Microsoft Activation Scripts</a> - An easy way that lets you activate windows and office programs </li>
   <li><a href="#superf4">SuperF4</a> - Tool to forcefully kill programs </li>
   <li><a href="#return-youtube-dislike">Return Youtube Dislike</a> - Extension that lets you see dislikes on YouTube videos </li>
+  <li><a href="#powertoys">PowerToys</a> - Set of shortcuts/utilities that will improve your Windows user experience </li>
+
 </ul>
 
 # 🌐[Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
@@ -99,7 +101,7 @@ Once the program is installed, right-click on its icon. I recommend turning on t
 # 👍👎[Return YouTube Dislike](https://returnyoutubedislike.com/)
 A browser extension that restores the dislike count on YouTube videos.
 
-## Installation ⚙️
+## ⚙️Installation
 1. Visit their [install page](https://returnyoutubedislike.com/install) on their website.
 2. Choose your preferred browser and install the extension. (NOTE: if your browser is not supported you will have to use Tampermonkey, will add steps later)
 
@@ -107,6 +109,25 @@ After that, you'll be able to see dislikes on YouTube videos!
 
 ![image](https://github.com/user-attachments/assets/e5ac4682-d83f-4934-9a43-a8e79e3b1a1f)
 
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+# 🎁[PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
+A set of handy shortcuts/utilities for power users to further tune and improve their Windows experience.
+
+For a tutorial on what every tool and more information visit the [PowerToys page](https://learn.microsoft.com/en-us/windows/powertoys/)
+
+## ⚙️Installation
+There are multiple methods to install, but for now we'll look at the easiest method: Installing with Microsoft Store.
+
+### Steps
+1. Open the [Microsoft Store PowerToys page](https://apps.microsoft.com/detail/xp89dcgq3k6vld)
+2. Download the program and launch
+3. After launching, take a look at whichever tools you like and enable them
+
+![PowertoysPreview](https://github.com/user-attachments/assets/de5482c3-aec9-400c-8495-95fc7cded98f)
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
