@@ -1,5 +1,5 @@
 # 🚀Essentials for everyone 
-A repository that will be constantly updated, containing essential tools with simple guides for installation/usage, even a layman could follow them!
+A repository that will be constantly updated, containing essential tools with simple guides for installation/usage.
 
 Whether you want to be productive or are just simply looking for useful everyday tools, here is a list of some you should consider.
 
