@@ -11,6 +11,7 @@ Whether you want to be productive or are just simply looking for useful everyday
   <li><a href="#superf4">SuperF4</a> - Tool to forcefully kill programs </li>
   <li><a href="#return-youtube-dislike">Return Youtube Dislike</a> - Extension that lets you see dislikes on YouTube videos </li>
   <li><a href="#powertoys">PowerToys</a> - Set of shortcuts/utilities that will improve your Windows user experience </li>
+  <li><a href=#sabis-average-calculation>SABIS Average Calculation</a> - A script that allows Sakarya University students to see their average</li>
 
 </ul>
 
@@ -128,6 +129,17 @@ There are multiple methods to install, but for now we'll look at the easiest met
 3. After launching, take a look at whichever tools you like and enable them
 
 ![PowertoysPreview](https://github.com/user-attachments/assets/de5482c3-aec9-400c-8495-95fc7cded98f)
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+
+# [SABIS Average Calculation](https://github.com/KledEatsTacos/sabis-average-calculation)
+A simple script I wrote that allows Sakarya University students to manipulate grades and see what their average would look like
+Incredibly useful tool, since I, myself, am tired of manually calculating everything on my phone's calculator :)
+
+More info in the repository for the script
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
