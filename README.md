@@ -58,7 +58,8 @@ irm https://get.activated.win | iex
 ```
 You will see a menu with options. Choose 1 to activate Windows, choose 2 to activate Office.
 
-![Activation menu example](https://github.com/user-attachments/assets/eca53c32-0002-4382-b9fe-99ee899724d6)
+![Activation menu example](https://github.com/user-attachments/assets/7d858c41-acb9-484a-914f-af4a3ee0f4e3)
+
 
 After that, you should be done!
 
