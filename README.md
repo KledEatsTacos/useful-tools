@@ -7,12 +7,13 @@ Whether you want to be productive or are just simply looking for useful everyday
 <ul>
   <li><a href="#best-websites-a-programmer-should-visit">Best websites a programmer should visit</a> - Handy links for programmers covering various topics </li>
   <li><a href="#g-helper">G-Helper</a> - Lightweight Armoury Crate alternative for Asus laptops </li>
-  <li><a href="#microsoft-activation-scripts">Microsoft Activation Scripts</a> - An easy way that lets you activate windows and office programs </li>
+  <li><a href="#microsoft-activation-scripts">Microsoft Activation Scripts</a> - An easy way that lets you activate Windows and Office programs </li>
   <li><a href="#superf4">SuperF4</a> - Tool to forcefully kill programs </li>
   <li><a href="#return-youtube-dislike">Return Youtube Dislike</a> - Extension that lets you see dislikes on YouTube videos </li>
   <li><a href="#powertoys">PowerToys</a> - Set of shortcuts/utilities that will improve your Windows user experience </li>
-  <li><a href=#sabis-average-calculation>SABIS Average Calculation</a> - A script that allows Sakarya University students to see their average</li>
+  <li><a href="#sabis-average-calculation">SABIS Average Calculation</a> - A script that allows Sakarya University students to see their average</li>
   <li><a href="#github-mcp-server">GitHub MCP Server</a> - This is so good, you'd do anything just to try it</li>
+  <li><a href="#free-cursor-vip">Free Cursor VIP</a> - For those of you who hate paying for Cursor</li>
 
 
 </ul>
@@ -151,6 +152,13 @@ More info in the repository for the script
 
 # 🛠️[GitHub MCP Server](https://github.com/github/github-mcp-server)
 This is so good, you'd do anything just to try it.
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
+# [Free Cursor VIP](https://github.com/yeongpin/cursor-free-vip)
+Who likes paying for services? Not me.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
